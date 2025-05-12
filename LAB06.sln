@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoardServer", "WhiteBoardServer\WhiteBoardServer.csproj", "{6A377D33-D7AA-4194-8B15-233489AB6184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoardClient", "WhiteBoardClient\WhiteBoardClient.csproj", "{99CE6A17-F672-481B-8CEA-365330BF77AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A377D33-D7AA-4194-8B15-233489AB6184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A377D33-D7AA-4194-8B15-233489AB6184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A377D33-D7AA-4194-8B15-233489AB6184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A377D33-D7AA-4194-8B15-233489AB6184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CE6A17-F672-481B-8CEA-365330BF77AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CE6A17-F672-481B-8CEA-365330BF77AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CE6A17-F672-481B-8CEA-365330BF77AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CE6A17-F672-481B-8CEA-365330BF77AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F09FA6-E7A3-40CD-8D78-FCA213132B94}
+	EndGlobalSection
+EndGlobal
